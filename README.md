@@ -24,7 +24,7 @@ A continuación se muestra una lista de los archivos que se deben verificar para
 				* **Archivo README: <a href="">retro/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/README.md</a>**
  				* **Reporte en formato PDF que incluye código en Jupyter Notebook para Análisis Estadístico: <a href="">retro/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/M1_Técnicas_de_procesamiento_de_datos_para_el_análisis_estadístico_y_para_la_construcción_de_modelos.pdf</a>**
 				* **Archivo CSV de la Base de Datos de Precios de los Autos: <a href="">retro/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/precios_autos.csv</a>**
-* *Módulo 2: <a href="">Machine Learning</a>*
+* *Módulo 2: <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/tree/main/retro/M2_ML">Machine Learning</a>*
 	* Subcompetencia *SMA0104A*
 		* **Momento de Retroalimentación: Análisis y Reporte sobre el desempeño del modelo:**
 			* *Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/tree/main/retro/M2_ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo">Análisis y Reporte sobre el desempeño del modelo</a>*
