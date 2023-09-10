@@ -55,6 +55,7 @@ A continuación se muestra una lista de los archivos en sus versiones finales qu
 	* Subcompetencia *SMA0104A*
 		* **Momento de Retroalimentación: Análisis del contexto y la normatividad:**
 			* *Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/tree/main/final/reto/Análisis del contexto y la normatividad">Análisis del contexto y la normatividad</a>*
+				* **Archivo README: <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/reto/Análisis del contexto y la normatividad/README.md">final/M2_ML/Análisis y Reporte sobre el desempeño del modelo/README.md</a>**
 				* **Reporte en Archivo PDF del Análisis del contexto y la normatividad: <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/reto/Análisis del contexto y la normatividad/Momento de Retroalimentación. Análisis del contexto y la.pdf">final/reto/Análisis y Reporte sobre el desempeño del modelo/Momento de Retroalimentación. Análisis del contexto y la.pdf</a>**
 
 ¡Gracias!
