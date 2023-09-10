@@ -1,0 +1,18 @@
+# Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo
+Dentro de este apartado se encuentra el primer entregable de mi portafolio de análisis respecto al módulo de Machine Learning, que básicamente consiste en el análsis y evaluación de un algoritmo de ML implementado por mi mismo para la entrega correspondiente al uso de un framework para un modelo de este estilo; utilicé redes neuronales apoyado de librerías como TensorFlow, Keras y ScikitLearn tanto para su implementación como para su refinamiento. Además, utilicé herramientas de apoyo como matplotlib para graficar y visualizar los datos correspondientes a pérdidas durante el entrenamiento y de validación, así como la implementación de GridSearch, una técnica muy utilizada, no solo para redes neuronales, sno también para distintos tipos de modelos de Machine Learning. Consiste en una búsqueda profunda en base a ciertas opciones de hiperparámetros que el usuario proporciona para que el algoritmo busqué la mejor configuración posible para algpun modelo de ML. Lo quer se busca en este entregable es analizar a profundidad si el algoritmo está realmente aprendiendo bien del contexto que está analizando y del que se encuentra produciendo estimaciones, para así corroborar su correcto o mal funcionamiento, de qué carece, tiene o no fallas, que puede mejorar y finalmente probar una nueva condiguración que pueda mejorar los resultados, como la métricas de error por ejemplo. Esta entrega se conforma de los siguientes archivos:
+* <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/retro/M2_ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo/Marvel_Movies.csv">**Marvel_Movies.csv:**</a> Datos de Películas de Marvel que han salido a lo largo de los años.
+* <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/retro/M2_ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo/Momento_de_Retroalimentaci%C3%B3n_An%C3%A1lisis_y_Reporte_sobre_el_desempe%C3%B1o_del_modelo.ipynb">**M2. Análisis y Reporte sobre el desempeño del modelo.ipynb:**</a> Jupyter Notebook donde se detalla más a profundidad el rendimiento y funcionamiento del algoritmo de redes neuronales implementado en entregas pasadas para el portafolio de implementación, dónde se explica a detalle si el modelo está aprendiendo, cómo se adapta al contexto de la base de datos proporcionada, es bueno o malo el modelo, qué tan fiable es, sufre de overfitting o underfitting y finalmente su refinamiento y posible ajuste:
+
+1. Encabezado
+
+    1.1 **Instrucciones e Información acerca del entregable:**
+
+    Explicación breve sobre las instrucciones a seguir y un poco de contexto acerca de las herramientas a utilizar para este trabajo.
+
+2. Análisis sobre el desempeño del algoritmo dentro del contexto:<br/>
+   
+   Reporte de análisis sobre el rendimiento de las redes neuronales utilizando datos del archivo "Marvel_Movies.csv", obtenidos de <a href="https://www.kaggle.com/datasets/joebeachcapital/marvel-movies">Kaggle</a> con información sobre películas de Marvel, incluye descripciones detalladas del uso de las herramientas de análisis, explicaciones y de los pasos que se siguieron para determinar el desempeño del modelo durante el proceso de entrenamiento, pruebas y validación, además de su refinamiento con una técina de GridSearch.
+
+4. Gráfica:<br/>
+   
+   Graficación y tabulación de información utilizada durante el análisis posterior a la predicción y pruebas con el fin de visualizar el flujo de los datos, su comportamiento y su rendimiento para su posterior análisis y comprensión de los mismos.
