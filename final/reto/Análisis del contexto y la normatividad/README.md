@@ -15,3 +15,15 @@ Dentro de este apartado se encuentra el entregable de mi portafolio de análisis
 4. Bibliografía:<br/>
    
    Pequeña sección dedicada para incluir algunas referencias utilizadas como apoyo para la elaboración del reporte.
+
+## Cambios realizados con respecto a la entrega anterior
+Se realizaron varias observaciones por parte del docente con respecto a la primera versión de este entregable, por lo cual, se realizaron ciertas modicaciones con el fin de cumplir con los criterios de la rúbrica que no se lograron alcanzar previamente. Es por ello que, a continuación se presentan las modificaciones realizadas al trabajo basados en la retroalimentación proporcionada por criterio faltante:
+
+* **El reporte explica la forma en la que la solución cumple leyes, normas y principios éticos, de la industria o el ambiente del reto.**
+   * Esta marca se resuelve añadiendo una sección en dónde se menciona explícitamente y se indaga sobre estándares de calidad, como el ISO8000, dónde contextualizo y detallo el cómo se relaciona con la normatividad de los datos y con el entregable que elegí para analizar en este entregable.
+
+* **El reporte explica cuál es la normatividad correspondiente del reto o socio formador.**
+   * Esta marca está muy relacionada con el punto anterior, dicha se resuelve eliminando unos cuantos párrafos acerca de temas que no están relacionados directamente con lo que el entregable busca y en acambio se desarrolló más la tesis que había quedado muy ambigua en la entrega pasada, que es la normatividad de los datos y su análisis con respecto a la ISO8000.
+
+* **Las referencias utilizadas están citadas de forma correcta.**
+   * La marca se resuelve citando dentro del mismo texto y en formato APA a los autores referenciados para la elaboración del documento. Solamente se tomaron ideas clave para contextualizar más de qué trata la normatividad de los datos, también se agregaron un par de referencias más para complementar otras ideas que se desarrollaron en el texto.
