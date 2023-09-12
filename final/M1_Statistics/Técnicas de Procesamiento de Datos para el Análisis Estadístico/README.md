@@ -9,7 +9,7 @@ A continuación se muestran los archivos que conforman esta sección:
 
 * <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/Reporte_Final_El_Precio_de_los_Autos.ipynb">**Reporte_Final_El_Precio_de_los_Autos.ipynb:**</a> Archivo en formato IPYNB que contiene el análisis estadístico debido para la construcción de modelos de predicción junto al código utilizado para el añalisis estadístico.
 
-* <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/Reporte Final. El Precio de los Autos.pdf">**Reporte_Final_El_Precio_de_los_Autos.pdf:**</a> Archivo en formato PDF que contiene el análisis estadístico debido para la construcción de modelos de predicción. Dentro de dicho archivo se puede encontrar los siguientes apartados:
+* <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/Reporte_Final_El_Precio_de_los_Autos.pdf">**Reporte_Final_El_Precio_de_los_Autos.pdf:**</a> Archivo en formato PDF que contiene el análisis estadístico debido para la construcción de modelos de predicción. Dentro de dicho archivo se puede encontrar los siguientes apartados:
 
    1. Introducción (Portafolio de Análisis)
 
