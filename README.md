@@ -35,10 +35,10 @@ A continuación se muestra una lista de los archivos que se deben verificar para
 ## **Versión final de archivos** (ENTREGA FINAL):
 A continuación se muestra una lista de los archivos en sus versiones finales que se deben revisar para calificar cada subcompetencia: 
 
-* *Módulo 1: <a href="">Estadística</a>*
+* *Módulo 1: <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M1_Statistics">Estadística</a>*
 	* Subcompetencia *SMA0102A*
 		* **Momento de Retroalimentación: Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos:**
-			* *Carpeta <a href="">Técnicas de procesamiento de datos para el análisis estadístico</a>*
+			* *Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico">Técnicas de procesamiento de datos para el análisis estadístico</a>*
 				* **Archivo README: <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/README.md">retro/M2_ML/Análisis y Reporte sobre el desempeño del modelo/README.md</a>**
 				* **Actividad 1 - Algunas distribuciones de probabilidad: <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/Act1_Algunas_distribuciones_de_probabilidad.pdf">final/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/Act1_Algunas_distribuciones_de_probabilidad.pdf</a>**
 				* **Actividad 2 - Explorando bases: <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/Act2_Explorando_bases.pdf">final/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/Act2_Explorando_bases.pdf</a>**
