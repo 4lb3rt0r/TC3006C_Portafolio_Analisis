@@ -7,7 +7,9 @@ A continuación se muestran los archivos que conforman esta sección:
 * <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/Act3_Transformaciones.pdf">**Actividad 3 -  Transformaciones:</a>** Actividad en la cual se sigue trabajando con la base de datos de McDonald's, solo que ahora se ponen en práctics conceptos como lo son las transformaciones, medidas de los datos, ecuaciones de los modelos, algunos ejemplos de esto son las gráficas de BoxCox y la prueba de normalidad de Yeo Johnson o Anderson Darling.
 * <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/precios_autos.csv">**precios_autos.csv:**</a> Datos de diferentes autos que contienen más que nada características sobre los mismos que se encuentran relacionados o no con el precio de los mismos.
 
-* <a href="">**Reporte_Final_El_Precio_de_los_Autos.pdf:**</a> Archivo en formato PDF que contiene el análisis estadístico debido para la construcción de modelos de predicción. Dentro de dicho archivo se puede encontrar los siguientes apartados:
+* <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/Reporte_Final_El_Precio_de_los_Autos.ipynb">**Reporte_Final_El_Precio_de_los_Autos.ipynb:**</a> Archivo en formato IPYNB que contiene el análisis estadístico debido para la construcción de modelos de predicción junto al código utilizado para el añalisis estadístico.
+
+* <a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Analisis/blob/main/final/M1_Statistics/Técnicas de Procesamiento de Datos para el Análisis Estadístico/Reporte Final. El Precio de los Autos.pdf">**Reporte_Final_El_Precio_de_los_Autos.pdf:**</a> Archivo en formato PDF que contiene el análisis estadístico debido para la construcción de modelos de predicción. Dentro de dicho archivo se puede encontrar los siguientes apartados:
 
    1. Introducción (Portafolio de Análisis)
 
@@ -23,4 +25,4 @@ A continuación se muestran los archivos que conforman esta sección:
 
    3. Modelación y Verificación del Modelo (Portafolio de Implementación)<br/>
       
-      En base a la selección de las variables, se busca el moejor modelo predictivo para la variable de precio. Esta sección se queda pendiente por el momento.
+      En base a la selección de las variables, se busca el moejor modelo predictivo para la variable de precio.
